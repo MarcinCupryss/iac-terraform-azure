@@ -1,6 +1,6 @@
 variable "resource_group_name" {
   description = "Nazwa grupy zasobów"
-  default     = "example-resources"  
+  default     = "tjzwnjvnv"  
 }
 
 variable "resource_group_location" {
@@ -10,7 +10,7 @@ variable "resource_group_location" {
 
 variable "storage_account_name" {
   description = "Nazwa konta magazynu"
-  default     = "examplestoracc"  
+  default     = "tjzwnjvnv"  
 }
 
 variable "storage_account_tier" {
@@ -45,5 +45,5 @@ variable "blob_type" {
 
 variable "blob_source" {
   description = "Ścieżka do lokalnego pliku źródłowego"
-  default     = "some-local-file.zip"  
+  default     = "index.html.zip"  
 }
