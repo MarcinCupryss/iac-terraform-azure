@@ -1,11 +1,11 @@
 variable "resource_group_name" {
   description = "Nazwa grupy zasobów"
-  default     = "example-group"
+  default     = "trssfuzjx"
 }
 
 variable "storage_account_name" {
   description = "Nazwa konta magazynu"
-  default     = "examplesa"
+  default     = "tjyclgdnv"
 }
 
 variable "location" {
@@ -20,12 +20,12 @@ variable "service_plan_name" {
 
 variable "function_app_name" {
   description = "Nazwa aplikacji funkcji"
-  default     = "example-function-app"
+  default     = "example-function-app-wmcdtlhde"
 }
 
 variable "function_name" {
   description = "Nazwa funkcji"
-  default     = "example-function-app-function"
+  default     = "example-function-app-function-znnimwbel"
 }
 
 variable "storage_account_tier" {
